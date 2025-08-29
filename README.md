@@ -112,3 +112,7 @@ Some states deliver **20 days earlier than estimated** → estimation models are
    ```bash
    git clone https://github.com/yourusername/target-ecommerce-sql-analysis.git
    cd target-ecommerce-sql-analysis
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
