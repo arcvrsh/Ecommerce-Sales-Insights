@@ -1,4 +1,4 @@
-# 🛒 Target E-commerce SQL Business Case Analysis  
+# 🛒 Ecommerce Sales Insights
 
 ## 📌 Overview  
 This project explores the **Target e-commerce dataset** (Brazil region) using SQL to derive **business insights and recommendations**.  
